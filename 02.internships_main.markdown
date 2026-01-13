@@ -1,0 +1,260 @@
+---
+layout: page
+title: CS1900/1950
+permalink: /CS1900_1950/
+---
+## Table of Contents
+
+- [Presentation Score Leader Board](#presentation-score-leader-board)
+- [Your responsibilities](#your-responsibilities)
+- [Attendance](#attendance)
+- [Presentation organization](#presentation-organization)
+- [Final paper organization](#final-paper-organization)
+- [Peer review organization](#peer-review-organization)
+- [Progress report organization](#progress-report-organization)
+- [Important Links](#important-links)
+
+## Presentation Score Leader Board
+
+This table will be populated with (anonymous) peer review scores for each
+presentation, on each week when there is a presentation.  The top scorer
+will receive the [Best Capstone Speaker Award](#peer-review-organization).
+
+|Name|Content Score|Organization Score|Delivery Score|Overall Score|
+| ---- | ------------- | ------------------ | -------------- | ------------- |
+|  | 4.555555556 | 4.6 | 4.777777778 | 4.644444444 |
+|  | 4.469387755 | 4.510204082 | 4.857142857 | 4.612244898 |
+|  | 4.555555556 | 4.377777778 | 4.688888889 | 4.540740741 |
+|  | 4.566037736 | 4.452830189 | 4.528301887 | 4.51572327 |
+|  | 4.490196078 | 4.431372549 | 4.568627451 | 4.496732026 |
+|  | 4.609756098 | 4.536585366 | 4.317073171 | 4.487804878 |
+|  | 4.5 | 4.369565217 | 4.565217391 | 4.47826087 |
+|  | 4.416666667 | 4.416666667 | 4.583333333 | 4.472222222 |
+|  | 4.47826087 | 4.413043478 | 4.52173913 | 4.471014493 |
+|  | 4.450980392 | 4.274509804 | 4.647058824 | 4.45751634 |
+|  | 4.54 | 4.2 | 4.6 | 4.446666667 |
+|  | 4.456521739 | 4.434782609 | 4.369565217 | 4.420289855 |
+|  | 4.291666667 | 4.270833333 | 4.645833333 | 4.402777778 |
+|  | 4.403846154 | 4.192307692 | 4.596153846 | 4.397435897 |
+|  | 4.404761905 | 4.428571429 | 4.357142857 | 4.396825397 |
+|  | 4.428571429 | 4.4 | 4.36 | 4.396190476 |
+|  | 4.291666667 | 4.375 | 4.395833333 | 4.354166667 |
+|  | 4.333333333 | 4.392156863 | 4.333333333 | 4.352941176 |
+|  | 4.340425532 | 4.425531915 | 4.276595745 | 4.34751773 |
+|  | 4.444444444 | 4.333333333 | 4.244444444 | 4.340740741 |
+|  | 4.4 | 4.22 | 4.4 | 4.34 |
+|  | 4.26 | 4.4 | 4.36 | 4.34 |
+|  | 4.352941176 | 4.274509804 | 4.392156863 | 4.339869281 |
+|  | 4.42 | 4.16 | 4.42 | 4.333333333 |
+|  | 4.431372549 | 4.352941176 | 4.215686275 | 4.333333333 |
+|  | 4.291666667 | 4.333333333 | 4.333333333 | 4.319444444 |
+|  | 4.255319149 | 4.340425532 | 4.340425532 | 4.312056738 |
+|  | 4.375 | 4.275 | 4.275 | 4.308333333 |
+|  | 4.479166667 | 4.166666667 | 4.270833333 | 4.305555556 |
+|  | 4.340425532 | 4.170212766 | 4.404255319 | 4.304964539 |
+|  | 4.26 | 4.22 | 4.42 | 4.3 |
+|  | 4.354166667 | 4.208333333 | 4.333333333 | 4.298611111 |
+|  | 4.444444444 | 4.222222222 | 4.222222222 | 4.296296296 |
+|  | 4.354166667 | 4.375 | 4.145833333 | 4.291666667 |
+|  | 4.266666667 | 4.2 | 4.4 | 4.288888889 |
+|  | 4.326530612 | 4.204081633 | 4.306122449 | 4.278911565 |
+|  | 4.117647059 | 4.431372549 | 4.254901961 | 4.267973856 |
+|  | 4.254901961 | 4.274509804 | 4.274509804 | 4.267973856 |
+|  | 4.319148936 | 4.234042553 | 4.234042553 | 4.262411348 |
+|  | 4.346938776 | 4.06122449 | 4.367346939 | 4.258503401 |
+|  | 4.153846154 | 4.288461538 | 4.326923077 | 4.256410256 |
+|  | 4.25 | 4.230769231 | 4.269230769 | 4.25 |
+|  | 4.235294118 | 4.254901961 | 4.254901961 | 4.248366013 |
+|  | 4.434782609 | 4.456521739 | 3.826086957 | 4.239130435 |
+|  | 4.266666667 | 4.222222222 | 4.222222222 | 4.237037037 |
+|  | 4.229166667 | 4.3125 | 4.145833333 | 4.229166667 |
+|  | 4.382978723 | 4.063829787 | 4.234042553 | 4.226950355 |
+|  | 4.361702128 | 4.229166667 | 4.083333333 | 4.224734043 |
+|  | 4.16 | 4.38 | 4.12 | 4.22 |
+|  | 4.416666667 | 4.166666667 | 4.0625 | 4.215277778 |
+|  | 4.255319149 | 4.170212766 | 4.212765957 | 4.212765957 |
+|  | 4.446808511 | 4.234042553 | 3.957446809 | 4.212765957 |
+|  | 4.276595745 | 4.106382979 | 4.255319149 | 4.212765957 |
+|  | 4.347826087 | 4.217391304 | 4.065217391 | 4.210144928 |
+|  | 4.333333333 | 4.333333333 | 3.955555556 | 4.207407407 |
+|  | 4.24 | 4.02 | 4.36 | 4.206666667 |
+|  | 4.387755102 | 4.12244898 | 4.102040816 | 4.204081633 |
+|  | 4.319148936 | 4.212765957 | 4.063829787 | 4.19858156 |
+|  | 4.276595745 | 4.021276596 | 4.29787234 | 4.19858156 |
+|  | 4.234042553 | 4.276595745 | 4.063829787 | 4.191489362 |
+|  | 4.104166667 | 4.3125 | 4.145833333 | 4.1875 |
+|  | 4.196078431 | 4.31372549 | 4.039215686 | 4.183006536 |
+|  | 4.326086957 | 4.02173913 | 4.195652174 | 4.18115942 |
+|  | 4.2 | 4.2 | 4.133333333 | 4.177777778 |
+|  | 4.361702128 | 4.127659574 | 4 | 4.163120567 |
+|  | 4.24 | 4.18 | 4.06 | 4.16 |
+|  | 4.326530612 | 4.163265306 | 3.979591837 | 4.156462585 |
+|  | 4.347826087 | 4.173913043 | 3.934782609 | 4.152173913 |
+|  | 4.215686275 | 4.352941176 | 3.882352941 | 4.150326797 |
+|  | 4.224489796 | 4.06122449 | 4.163265306 | 4.149659864 |
+|  | 4.191489362 | 4 | 4.212765957 | 4.134751773 |
+|  | 4.191489362 | 4.106382979 | 4.085106383 | 4.127659574 |
+|  | 4.177777778 | 4.111111111 | 4.088888889 | 4.125925926 |
+|  | 4.208333333 | 4.229166667 | 3.9375 | 4.125 |
+|  | 4.255813953 | 4.046511628 | 4.023255814 | 4.108527132 |
+|  | 4.18 | 4.02 | 4.12 | 4.106666667 |
+|  | 4.16 | 4.32 | 3.82 | 4.1 |
+|  | 4.039215686 | 4.078431373 | 4.176470588 | 4.098039216 |
+|  | 4.083333333 | 4.208333333 | 4 | 4.097222222 |
+|  | 3.977777778 | 4.111111111 | 4.177777778 | 4.088888889 |
+|  | 4.354166667 | 4.0625 | 3.833333333 | 4.083333333 |
+|  | 4.166666667 | 4.166666667 | 3.916666667 | 4.083333333 |
+|  | 4.153846154 | 4.1 | 3.9 | 4.051282051 |
+|  | 4.268292683 | 4.073170732 | 3.804878049 | 4.048780488 |
+|  | 4.04 | 4.08 | 4 | 4.04 |
+|  | 4.019607843 | 4.058823529 | 4 | 4.026143791 |
+|  | 4.244444444 | 4.022222222 | 3.8 | 4.022222222 |
+|  | 4.12 | 3.96 | 3.98 | 4.02 |
+|  | 4.31372549 | 3.980392157 | 3.745098039 | 4.013071895 |
+|  | 4.14 | 3.88 | 4 | 4.006666667 |
+|  | 4.058823529 | 4.137254902 | 3.803921569 | 4 |
+|  | 4.115384615 | 4.173076923 | 3.673076923 | 3.987179487 |
+|  | 4.117647059 | 3.784313725 | 4.039215686 | 3.980392157 |
+|  | 4.134615385 | 3.961538462 | 3.807692308 | 3.967948718 |
+|  | 4.058823529 | 4.058823529 | 3.745098039 | 3.954248366 |
+|  | 4.265306122 | 3.87755102 | 3.693877551 | 3.945578231 |
+|  | 4.16 | 4.02 | 3.64 | 3.94 |
+|  | 3.645833333 | 3.854166667 | 4.3125 | 3.9375 |
+|  | 4.068181818 | 4.022727273 | 3.704545455 | 3.931818182 |
+|  | 4.019607843 | 4.078431373 | 3.68627451 | 3.928104575 |
+|  | 4.022222222 | 3.977777778 | 3.622222222 | 3.874074074 |
+|  | 3.980769231 | 3.865384615 | 3.75 | 3.865384615 |
+|  | 4.0625 | 3.9375 | 3.520833333 | 3.840277778 |
+|  | 3.9375 | 3.75 | 3.791666667 | 3.826388889 |
+|  | 3.884615385 | 4.076923077 | 3.326923077 | 3.762820513 |
+|  | 4.093023256 | 3.325581395 | 3.674418605 | 3.697674419 |
+|  | 3.784313725 | 3.156862745 | 3.823529412 | 3.588235294 |
+|  | 3.711538462 | 3.365384615 | 3.615384615 | 3.564102564 |
+|  | 3.745098039 | 3.215686275 | 3.529411765 | 3.496732026 |
+|  | 3.254901961 | 3.431372549 | 2.411764706 | 3.032679739 |
+| Average | 4.242144727 | 4.153368971 | 4.116464937 | 4.170659545 |
+
+## Your responsibilities
+
+You must fulfill all of these responsibilities to get a satisfactory grade:
+
+1. Attend each class synchronously.  See [Attendance](#attendance).
+
+1. Give a presentation on your work.  See [Presentation organization](#presentation-organization).
+
+1. Write a final paper.  See [Final paper organization](#final-paper-organization).
+
+1. Fill out peer reviews for each presentation on TopHat.  See [Peer review organization](#peer-review-organization)
+
+1. (CS 1950 students only) send regular progress reports.  See [Progress report organization](#progress-report-organization).
+
+Failure to fulfill any of the above responsibilities may result in a "Not
+Complete" grade or a penalty on your letter grade.
+
+## Attendance
+
+* TopHat attendance will be taken for each class.
+
+* Attendance must occur in-person.  If you have extenuating circumstance
+  (such as a medical or family emergency), please let me know immediately
+and I will allow remote particiation or other means of participation.
+
+* **NOTE:** You may miss **2 classes** in the entire semester without an
+  extenuating circumstance.  3 or more missed classes will result in a
+failure.
+
+
+## Presentation organization
+
+* The presentation schedule will be finalized using a poll.  This is the official schedule as it stands now:
+  * [Presentation Schedule (1010 Section)]({{site.baseurl}}/internship_presentation_schedule_1010)
+  * [Presentation Schedule (1015 Section)]({{site.baseurl}}/internship_presentation_schedule_1015)
+
+* There will be typically 5 students presenting each day.  That means 50 / 5 =
+  10 minutes per student.  Those 10 minutes is going to be broken down as
+follows:
+  * **5 minutes**: Presentation talk
+    * Speaker presents slides pre-uploaded to TopHat using instructor's laptop.
+  * **3 minutes**: Audience Q & A
+  * **2 minutes**: Intermission
+    * Current speaker: Returns to seat.
+    * Next speaker: Immediately steps up to podium and starts preparing.
+    * Audience: Answer peer review questions on TopHat, due at midnight.
+  * Speakers: Please keep your own time with your cell phone.  Please
+    understand that I have to cut you off at 8 minutes with no warning due to
+the tight schedule.
+
+* Please review the [Lecture on Presentations]({{site.baseurl}}/internships/pdfs/lecture-on-presentations-internship.pdf) and the [Lecture on
+  Assertion Evidence Format]({{site.baseurl}}/internships/pdfs/lecture-on-assertion-evidence-format.pdf) before giving your presentation.  
+
+* Presenters must submit their presentation slides to the "Presentation Slides"
+  assignment on Canvas the day before, by **Thursday 9:00 PM**.  The slides
+will be uploaded to TopHat for the presentation next day.  The preferred format
+is PDF or Powerpoint.  Please note that simple Powerpoint animations like
+appearing and disappearing work on TopHat, but if you use more fancy animations
+they might not, so please let me know by email and I will give you further
+instructions.
+
+* Recordings of presenters are uploaded to Canvas Panopto within an hour of the
+  talk.  Watching a recording of your own talk can be an enlightening
+experience (you can trust me on this).
+
+* **NOTE:** If your presentation is not satisfactory, you will be asked to
+  present once more with your instructor one-on-one outside of class hours.
+This will be your last chance to give a satisfactory presentation.
+
+## Final paper organization
+
+* Write a 8 - 12 page paper on your internship experience.  For details, see the
+[Final Paper Instructions]({{site.baseurl}}/final_paper).  PDF format is
+preferred.  The paper is to be submitted to Canvas by **Friday midnight 
+of the week following your presentation**.
+
+## Peer review organization
+
+* For each presenter, there will be a folder in TopHat containing the slides
+  for the presentation and a few peer review questions.  The TopHat questions
+should be submitted to TopHat by **Friday midnight on the day of the
+presentation**.
+
+* Please do not peer review yourself (obviously).
+
+* Please review [tips for writing a good review]({{site.baseurl}}/review_tips).
+  Be specific about what you liked and disliked.
+
+* Peer review scores are anonymized when posted to TopHat --- only score
+  averages will be made available to the presenter.  Also the peer reviews
+**will not impact the presenter's grade**.  That means you can give honest
+feedback and scores without feeling guilty about lowering your friend's
+grade.  The purpose is to give constructive feedback so that your friend can
+improve.  
+
+* Your scores will also be used to decide the Best Capstone Speaker award,
+which is given to three students with the highest overall scores (the sum of
+the Content, Organization, and Delivery scores).  Cash prizes of $100, $50,
+and $20 will be given to the PittFund$Me accounts of meriting students, as
+well as certificates.
+
+## Progress report organization
+
+This section is only for CS 1950 students.
+
+* Please submit progress reports to the Canvas SCI Experiential Learning Hub on
+  the dates specified (it is on a bi-weekly cadence).  The report allows your
+research advisor to monitor your progress and spot communication problems
+before they become a major issue.
+
+* The progress reports are meant to help you, not burden you.  The main
+  consumer of the report is your research advisor, so you can use whatever
+format conveys the information best to your advisor.  Some professors prefer
+bullet points over flowing text.
+
+* Your advisor will "Approve" your report if your progress is satisfactory ---
+  otherwise feedback will be given.
+
+## Important Links
+
+* [Presentation Schedule (1010 Section)]({{site.baseurl}}/internship_presentation_schedule_1010)
+* [Presentation Schedule (1015 Section)]({{site.baseurl}}/internship_presentation_schedule_1015)
+* [Peer Review Tips]({{site.baseurl}}/review_tips)
+* [Final Paper Instructions]({{site.baseurl}}/final_paper)
