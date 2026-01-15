@@ -63,7 +63,7 @@ failure.
 Q&A.
 
 * Please review the [Course
-  Introduction]({{site.baseurl}}/internships/pdfs/introduction-internship.pdf))
+  Introduction]({{site.baseurl}}/internships/pdfs/introduction-internship.pdf)
 for presentation logistics.  Please review the [Lecture on
 Presentations]({{site.baseurl}}/internships/pdfs/lecture-on-presentations-internship.pdf)
 and the [Lecture on Assertion Evidence
