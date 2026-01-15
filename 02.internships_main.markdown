@@ -57,8 +57,7 @@ failure.
 ## Presentation organization
 
 * The presentation schedule will be finalized using a poll.  This is the official schedule as it stands now:
-  * [Presentation Schedule (1010 Section)]({{site.baseurl}}/internship_presentation_schedule_1010)
-  * [Presentation Schedule (1015 Section)]({{site.baseurl}}/internship_presentation_schedule_1015)
+  * [Presentation Schedule]({{site.baseurl}}/internship_presentation_schedule)
 
 * It looks like we are going to have one presentation per day.  Please time
   your presentation time to be ~30 minutes so that we can have ~20 minutes of
@@ -134,7 +133,6 @@ bullet points over flowing text.
 
 ## Important Links
 
-* [Presentation Schedule (1010 Section)]({{site.baseurl}}/internship_presentation_schedule_1010)
-* [Presentation Schedule (1015 Section)]({{site.baseurl}}/internship_presentation_schedule_1015)
+* [Presentation Schedule]({{site.baseurl}}/internship_presentation_schedule)
 * [Peer Review Tips]({{site.baseurl}}/review_tips)
 * [Final Paper Instructions]({{site.baseurl}}/final_paper)
