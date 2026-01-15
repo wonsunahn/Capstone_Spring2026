@@ -56,14 +56,19 @@ failure.
 
 ## Presentation organization
 
-* The presentation schedule will be finalized using a poll.  This is the official schedule as it stands now:[Presentation Schedule]({{site.baseurl}}/internship_presentation_schedule).
+* The presentation schedule will be finalized using a poll.  This is the official schedule as it stands now: [Presentation Schedule]({{site.baseurl}}/internship_presentation_schedule).
 
 * It looks like we are going to have one presentation per day.  Please time
   your presentation time to be ~30 minutes so that we can have ~20 minutes of
 Q&A.
 
-* Please review the [Lecture on Presentations]({{site.baseurl}}/internships/pdfs/lecture-on-presentations-internship.pdf) and the [Lecture on
-  Assertion Evidence Format]({{site.baseurl}}/internships/pdfs/lecture-on-assertion-evidence-format.pdf) before giving your presentation.  
+* Please review the [Course
+  Introduction]({{site.baseurl}}/internships/pdfs/introduction-internship.pdf))
+for presentation logistics.  Please review the [Lecture on
+Presentations]({{site.baseurl}}/internships/pdfs/lecture-on-presentations-internship.pdf)
+and the [Lecture on Assertion Evidence
+Format]({{site.baseurl}}/internships/pdfs/lecture-on-assertion-evidence-format.pdf)
+for tips on giving a good presentation.  
 
 * Presenters must submit their presentation slides to the "Presentation Slides"
   assignment on Canvas the day before, by **Thursday 9:00 PM**.  The slides
