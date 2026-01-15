@@ -56,8 +56,7 @@ failure.
 
 ## Presentation organization
 
-* The presentation schedule will be finalized using a poll.  This is the official schedule as it stands now:
-  * [Presentation Schedule]({{site.baseurl}}/internship_presentation_schedule)
+* The presentation schedule will be finalized using a poll.  This is the official schedule as it stands now:[Presentation Schedule]({{site.baseurl}}/internship_presentation_schedule).
 
 * It looks like we are going to have one presentation per day.  Please time
   your presentation time to be ~30 minutes so that we can have ~20 minutes of
