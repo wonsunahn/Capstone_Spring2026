@@ -55,13 +55,18 @@ Jorge Luis Borges (Buenos Aires, Argentina 1899-Geneva, Switzerland1986) was the
 
 In fall 2025 two excellent SCI students, Jing Tong and Hiuyeung Kong, worked on revising the site so that it can be hosted on Open Scholar. They were able to move much of the site to a development page, (https://researchsites.pitt.edu/borgescenter)[https://researchsites.pitt.edu/borgescenter]. To finish the job we need two SCI students in spring 2026. The main tasks will be:
 
-1. To move the Finder's Guide, which contains upwards of 13000 items referring to more than three hundred thousand references in Borges's work. This tool also includes numerous quotations and references to two important reference works: Evelyn Fishburn and Psiche Hughes's 1990 A Dictionary of Borges (updated by Fishburn on the Borges Center website) and Cristina Parodi's Borges-Bioy en contexto (published by the Borges Center as a book in 2018). 
+1. To try to match the appearance of the old side as closely as possible. The Open Scholar version uses sans serif fonts on the home page, but these should be serif fonts, and the font sizes and appearance should be unified within the whole site.
 
-2. To check for dead links throughout the website, and to update them when possible. The SCI students in fall 2025 identified dead links in the Borges Center timeline, most of them relating to YouTube videos, but the whole website needs to be searched for dead links.
+2. The students last semester did not have time to update the store for online commerce. We use authorize.net for credit card purchases, and that tool needs to be integrated into the new store. In addition, the functionality of the store needs to be improved, so that we can order the things for sale more easily. 
 
-3. To update the store (www.borges.pitt.edu/store) to make it work with Open Scholar. The store uses authorize.net to support credit card transactions. To update this section may require review by the Pitt e-commerce staff.
+3. The portions of the site that the students last term did not get to have to be migrated: the Journal section (the archives need to be migrated with descriptions of the contents of the sixty issues published to date, with links to the Criticism section when these existed in the old site); the Finder's Guide, which contains upwards of 13000 items referring to more than three hundred thousand references in Borges's work needs to be migrated, including links to two important reference works, Evelyn Fishburn and Psiche Hughes's 1990 A Dictionary of Borges (updated by Fishburn on the Borges Center website) and Cristina Parodi's Borges-Bioy en contexto (published by the Borges Center as a book in 2018); the “Bibliographies” section should be renamed “Timeline Bibliography,” and the old references to outdated bibliographies by Annick Louis and Sergio Pastormerlo should be eliminated; in the “In the Arts” section dead links should be updated or eliminated; the functionality of the “News and Events” section should be updated to make it easier to edit and reorder.
 
-When the whole website is ready, to make it live.
+4. To check for dead links throughout the website, and to update them when possible. The SCI students in fall 2025 identified dead links in the Borges Center timeline, most of them relating to YouTube videos, but the whole website needs to be searched for dead links.
+
+5.	We used to have a Google Analytics tool to track usage around the world, but that tool stopped functioning in some prior update. A new analytics tool should be integrated, along with instructions for us on how to edit the site. 
+
+6.	When the whole website is ready, to make it live.
+
 We look forward to working with new students in spring 2026!
 
 Team Size: 2 students
