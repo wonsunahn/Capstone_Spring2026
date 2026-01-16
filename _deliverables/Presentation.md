@@ -5,7 +5,7 @@ permalink: project_presentation
 ---
 
 # CS CS1980/CS1640 CAPSTONE
-Fall Semester 2024
+Spring Semester 2026
 
 ## Project Students (CS1980/CS1640)
 

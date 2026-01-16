@@ -4,7 +4,7 @@ title: Midterm Update
 permalink: project_midterm_update
 ---
 # CS CS1980/CS1640 CAPSTONE
-Fall Semester 2024
+Spring Semester 2026
 
 <!-- ## MIDTERM UPDATE PAPER AND PRESENTATION -->
 ## MIDTERM UPDATE PAPER AND PRESENTATION
