@@ -302,3 +302,10 @@ Team Size: 3-4 students
 
 POC: Emma Jordan (emma.jordan@pitt.edu)
 
+### Garden Produce Website
+I have a small garden and nursery where I sell produce and plants. I would like to build a website that allows me to list my products, take orders, and manage inventory. The website should have a simple and clean design, be easy to navigate, and be mobile-friendly. I would also like to have a backend system that allows me to easily update the product listings, manage orders, and track inventory. This project would be a great opportunity for students interested in web development and e-commerce. Other than I want it to require minimal and easily updated, there is a lot of room for creativity in the design and functionality of the website.
+
+Team Size: 2-3 students
+
+POC: Emma Jordan (emma.jordan@pitt.edu)
+
