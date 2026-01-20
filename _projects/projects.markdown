@@ -73,6 +73,24 @@ Team Size: 2 students
 
 POC: Daniel Balderston (balderstondaniel@gmail.com), Alfredo Alonso (alonal01@luther.edu)
 
+## Lymphoma Coalition
+Website: (https://lymphomacoalition.org/)[https://lymphomacoalition.org/]
+
+### Lymphoma Colition Organization RElationship System (LCORS)
+
+Description:
+Over the years, the LC has grown in size to include over 90 lymphoma cancer patient organizations in over 55 countries.  With that growth, it has become difficult to manage their contact information for each organization, and to track contacts(touches), relationships and activities that the LC does on their behalf, and that partner organizations do on behalf of the LC.  
+
+A database/CRM system was developed several years ago (using Access on a server), but it got corrupted during the COVID pandemic years, and is no longer usable.  The LC does have the original specifications, and maps of relationships to help in building out a new solution.  They are not necessarily focused on using any one software tool. However, the solution has to be simple enough that it would be relatively easy to maintain and update in the future, yet robust enough to satisfy their requirements.  The database would be placed on a server, and staff would have access to it.
+
+The LC is looking for recommendations and implementation by the end of the Spring Term.
+
+Team Size: 2-4 students
+
+POC: Pete DeNardis (pdenardis@pitt.edu)
+
+
+
 # Corporate Projects
 ## CGI
 Note: CGI projects will need an NDA.
@@ -107,6 +125,31 @@ TBD
 Team Size: ?
 
 POC: Sandeep Pamarthi (sandeep.pamarthi@cgi.com)
+
+## Neuraville
+### Perception AI Model Development
+
+This capstone will focus on the design, implementation, and evaluation of perception AI models applicable across robotics and non-robotics domains. Student teams will work on problems such as object recognition and counting, anomaly detection, motion sensing, localization, and pose estimation using real-world and synthetic datasets. Reasonable expectations include developing working models, establishing training and evaluation pipelines, documenting performance tradeoffs, and delivering reproducible results that can be integrated into downstream systems or demonstrated through benchmarks and demos.
+
+Team Size: 2-12 students (broken into sub-teams)
+
+POC: Mohammad Nadji (nadji@neuraville.com)
+
+### Open-Source Community Development
+
+This capstone centers on building and strengthening an open-source ecosystem around our advanced AI/robotics platform FEAGI. Students will take on a technical marketing engineer–style role, contributing through documentation improvements, tutorials, sample projects, developer guides, and technical content such as blogs or walkthroughs. Expectations include improving contributor onboarding, clarifying APIs and workflows, producing measurable improvements in usability and engagement, and leaving behind maintainable assets that lower the barrier for new developers and researchers to adopt the platform.
+
+Team Size: 2-6 students
+
+POC: Mohammad Nadji (nadji@neuraville.com)
+
+### FEAGI Java SDK Development
+Students will develop a core Java SDK for FEAGI that covers the essential functionality needed to connect to FEAGI services, stimulate neurons, and receive sensorimotor feedback. Deliverables include working core APIs, a few representative example applications, and concise, practical documentation sufficient for other developers to get started. The focus is on creating a stable, usable foundation rather than a full feature-parity SDK with exhaustive coverage. 
+
+Team Size: 2-3 students
+
+POC: Mohammad Nadji (nadji@neuraville.com)
+
 
 # Faculty Projects
 ## Chris Schunn
@@ -193,3 +236,4 @@ I have two remote controllable RC cars with cameras and Nvidia Jetson GPUs. I wo
 Team Size: 3-4 students
 
 POC: Emma Jordan (emma.jordan@pitt.edu)
+
