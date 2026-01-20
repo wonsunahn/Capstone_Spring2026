@@ -119,10 +119,11 @@ Team Size: 4 students
 
 POC: Anastasia Mokhon (anastasia.mokhon@cgi.com).
 
-### Graph RAG 
-TBD
+### GraphRAG  Knowledge System
 
-Team Size: ?
+Build an intelligent documentation assistant that answers questions by understanding relationships across an enterprise knowledge base. GraphRAG combines knowledge graph structures with retrieval-augmented generation to understand relationships between entities and concepts.
+
+Team Size: 5
 
 POC: Sandeep Pamarthi (sandeep.pamarthi@cgi.com)
 
