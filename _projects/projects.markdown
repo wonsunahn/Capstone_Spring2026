@@ -223,9 +223,12 @@ of the semester. The initial goals will be to redesign the wires system to allow
 Logisim. Then, we'll focus on trying to recreate CS0447 circuits to identify the missing functionality
 and components. E.g.: counters, flip-flops, etc.
 
-      * Languages: Javascript/Svelte.
-      * Team size: 3-4 students
-      * POC: Luís Oliveira (loliveira@pitt.edu)
+Languages: Javascript/Svelte.
+
+
+Team size: 3-4 students
+
+POC: Luís Oliveira (loliveira@pitt.edu)
 
 ### RAWRS
 
@@ -235,13 +238,16 @@ We are still using MARS (which we all hate ;), but we want to push the developme
 
 This tool is called RAWRS (RISC-V Assembler and Workable, Rewritable System) - it's an acronym it can mean whatever we want! - and it's a web-based tools (bye bye Java).
 The objective for this project is to develop this tool further to a point where it can be used for CS 447.
-      * Test and fix the previous code that warns about convention violations
-      * Test and fix the previous code that enabled Memory-Mapped devices implemented in Javascript
-      * Adapt the website (Javascript development) to new functionality (implement plugins).
+      - Test and fix the previous code that warns about convention violations
+      - Test and fix the previous code that enabled Memory-Mapped devices implemented in Javascript
+      - Adapt the website (Javascript development) to new functionality (implement plugins).
 The tool is written in (modern) Javascript where we predict most of the development will be focused. But you will also have the opportunity to stretch your assembly muscles. As the RISC-V simulator is backed by a RISC-V kernel :D
-      * Languages: Javascript/C.
-      * Team Size: 3-4 students
-      * POC: Luis Oliveira (loliveira@pitt.edu)
+
+Languages: Javascript/C.
+
+Team Size: 3-4 students
+
+POC: Luis Oliveira (loliveira@pitt.edu)
 
 ### Class scheduling app
 
@@ -258,13 +264,12 @@ manage classes. What I want is not to rebuild that software. Instead, I want to 
 
 
 **What will you be doing?**
-      * You will talk to people doing the schedule and discuss with them what they think they need, and translate that as a program.
+      - You will talk to people doing the schedule and discuss with them what they think they need, and translate that as a program.
 **What do we know now?**
-      * Your program will take some sort of CSV/JSON file as input, and then parse classes and recitations for a set of rules that should output *Good*, *Warning*, or *Bad*.
-      * Your program will have a basic test definition language that you'll need to translate to your testing framework so the tests can be expanded in the future.
-      * Rules could be in the form of: two recitations for the same class should not happen at the same time; two recitations for the same section should not happen in different buildings within 10 minutes.
-
-      * Languages: Whatever you find appropriate.
+      - Your program will take some sort of CSV/JSON file as input, and then parse classes and recitations for a set of rules that should output *Good*, *Warning*, or *Bad*.
+      - Your program will have a basic test definition language that you'll need to translate to your testing framework so the tests can be expanded in the future.
+      - Rules could be in the form of: two recitations for the same class should not happen at the same time; two recitations for the same section should not happen in different buildings within 10 minutes.
+      - Languages: Whatever you find appropriate.
 
 Team Size: 3-4 students
 
