@@ -211,6 +211,65 @@ Team Size: 3-5 students
 
 POC Aakash Gautam (AAKASH@pitt.edu)
 
+## Luís Oliveira
+### Logic App
+
+Using Svelte to build an interactive application like logisim.
+This work started last Spring and later developed last Fall, but the tool is missing some functionality. Mainly: Wires! I want to be able to place wires where I want to! And right now they are drawn automatically.
+
+The first couple of weeks are expected to be dedicated to your understanding and re-deployment of
+existing code. During that period, you will (with my help) plan the changes and development for the rest
+of the semester. The initial goals will be to redesign the wires system to allow me to draw wires like in
+Logisim. Then, we'll focus on trying to recreate CS0447 circuits to identify the missing functionality
+and components. E.g.: counters, flip-flops, etc.
+
+      * Languages: Javascript/Svelte.
+      * Team size: 3-4 students
+      * POC: Luís Oliveira (loliveira@pitt.edu)
+
+### RAWRS
+
+For DECADES CS 0447 was taught using MIPS assembly language. However, MIPS processors are not that common anymore (RIP PS and PS2) (they still live in network equipment though, but barely
+:). On the other hand, the RISC-V architecture (open-source) is gaining some momentum, and you can even buy some boards to have fun with it.
+We are still using MARS (which we all hate ;), but we want to push the development of an alternative that uses RISC-V. wilkie developed a web-based alternative, a few semesters of capstones worked on it, but it's still not ready for primetime: https://https://gitlab.com/luisfnqoliveira/RAWRS
+
+This tool is called RAWRS (RISC-V Assembler and Workable, Rewritable System) - it's an acronym it can mean whatever we want! - and it's a web-based tools (bye bye Java).
+The objective for this project is to develop this tool further to a point where it can be used for CS 447.
+      * Test and fix the previous code that warns about convention violations
+      * Test and fix the previous code that enabled Memory-Mapped devices implemented in Javascript
+      * Adapt the website (Javascript development) to new functionality (implement plugins).
+The tool is written in (modern) Javascript where we predict most of the development will be focused. But you will also have the opportunity to stretch your assembly muscles. As the RISC-V simulator is backed by a RISC-V kernel :D
+      * Languages: Javascript/C.
+      * Team Size: 3-4 students
+      * POC: Luis Oliveira (loliveira@pitt.edu)
+
+### Class scheduling app
+
+
+Scheduling is hard! Understatement of the century.
+
+Since I've started assigning TAs to classes, I've seen schedulers make a lot of mistakes.
+Since I've started assigning TAs to classes, I've realised why! Cause I also make them :)
+This project aims at finding them in an automated manner.
+
+
+There is software in place to schedule and
+manage classes. What I want is not to rebuild that software. Instead, I want to export a schedule from there, and parse it to detect potential issues. Which issues? That's part of it. I don't know, so I want anyone to be able to add rules easily down the road. The way I envisioned the program is like a sort of testing framework where someone who doesn't program will be able to write tests.
+
+
+**What will you be doing?**
+      * You will talk to people doing the schedule and discuss with them what they think they need, and translate that as a program.
+**What do we know now?**
+      * Your program will take some sort of CSV/JSON file as input, and then parse classes and recitations for a set of rules that should output *Good*, *Warning*, or *Bad*.
+      * Your program will have a basic test definition language that you'll need to translate to your testing framework so the tests can be expanded in the future.
+      * Rules could be in the form of: two recitations for the same class should not happen at the same time; two recitations for the same section should not happen in different buildings within 10 minutes.
+
+      * Languages: Whatever you find appropriate.
+
+Team Size: 3-4 students
+
+POC: Luis Oliveira (loliveira@pitt.edu)
+
 ## Daniel Mosse
 ### Multi-Objective RL Environment Creation
 
