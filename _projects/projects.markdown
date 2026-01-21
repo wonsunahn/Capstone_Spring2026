@@ -323,6 +323,24 @@ Team Size: 2-3 students
 
 POC: Marcelo d'Ameida (MARCELO@pitt.edu), Daniel Mosse (mosse@pitt.edu)
 
+## Peter Brusilovsky
+### Creating Problems for Learning Programming with an LLM
+**Description**:
+Our team is working on creating worked examples and problems that could be used in a personalized practice system supporting learning programming in Python, Java, SQL, C, C++.
+
+For some types of learning content, we have developed authoring tools, for others, we have a framework for authoring, but no a full-scale authoring tool.
+
+We welcome several types of projects
+- Creating learning content with existing tools and frameworks (worked examples, code animations, tracing problems, coding problems, etc.).
+- Using LLM to augment existing content authoring tools with new functionalities or to create new types of learning content
+- Developing user-centered authoring systems for the types of content that are not yet supported. 
+
+We need students with good knowledge at least in one of the following languages - Java, C, C++, Python, SQL. Students interested in CS education would be most welcome. It is a good chance to explore the power of LLM as well.
+
+Team Size: 2-3 students
+
+POC: Peter Brusilovsky (peterb@pitt.edu)
+
 
 ## Emma Jordan
 ### AI Racing RC Car
