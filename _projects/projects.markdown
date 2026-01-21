@@ -275,6 +275,36 @@ Team Size: 3-4 students
 
 POC: Luis Oliveira (loliveira@pitt.edu)
 
+## Adriana Kovashka
+### Domain gaps in action recognition for older adults 
+
+**Description**: 
+
+As AI gains better understanding of visual data capturing human activity, applications to understand human challenges and enhance quality of life become more abundant, as so does data that can be used for pilot studies. One such dataset is Ego4D (https://arxiv.org/abs/2110.07058) which captures very diverse participants performing diverse everyday and professional activities (cooking, gardening, construction). However, it is not clear how well models trained on this data would perform on data from specific populations, such as older adults. The goal of this project is to examine what distinguishes data provided by older (say 70+) vs younger participants, identify domain gaps in performance on certain classification tasks (e.g. action recognition, and whether performing these tasks on older people data is harder), and how performance gaps can be bridged-- perhaps using intermediate representations, e.g. pose, where poses recognition itself can be tailored towards specific populations more easily because they are simpler and more short-term, while compositions of poses (steps of computing an activity) perhaps generalize across populations.
+
+Team Size: 2-3 students
+
+POC: Adriana Kovashka (kovashka@cs.pitt.edu)
+
+### Temporal trends in satellite data
+
+**Description**: 
+
+Satellite data contains interesting information with impact for urban planning, disaster response, and even traffic law adherence. Some of this information is temporal (patterns that change over time). Some prior work on temporal trends is explored in this paper (https://arxiv.org/pdf/2504.08727) but using street view data. What trends about important phenomena (poverty, environmental changes, disasters, policy violations) can be inferred by comparing different timestamps in satellite datasets? Some datasets of potential interest include: USGS EarthExplorer, Google Earth Engine, Copernicus Data Space Ecosystem, PlanetScope and SkySat, Global Enhanced Geoint Delivery, Google Earth Engine, DeepGlobe, xView, but feasibility of use of these datasets requires investigation. Another interesting task on this data is to examine temporal domain generalization in satellite data-- what reasons are there why a model trained on data from time period X, may not do well on data from time period Y, for a particular task (e.g. building segmentation). 
+
+Team Size: 3-5 students
+
+POC: Adriana Kovashka (kovashka@cs.pitt.edu)
+
+### Out-of-the-box persuasive media
+**Description**: 
+
+GenAI models have the potential to democratize creation of media, including advertisements, with low effort. However AI model creativity is still not well understood. The goal of this project is to examine how GenAI models can create persuasive advertisements out of completely random combinations (not frequently co-occurring) objects, in similar spirit to this (paper)[https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Detecting_Persuasive_Atypicality_by_Modeling_Contextual_Compatibility_ICCV_2021_paper.pdf and https://openaccess.thecvf.com/content/ICCV2025/papers/Aghazadeh_CAP_Evaluation_of_Persuasive_and_Creative_Image_Generation_ICCV_2025_paper.pdf]. The challenge is for AI models to score which random combinations make sense, even if infrequent, and which don't.
+
+Team Size: 2-3 students
+
+POC: Adriana Kovashka (kovashka@cs.pitt.edu)
+
 ## Daniel Mosse
 ### Multi-Objective RL Environment Creation
 
