@@ -335,8 +335,87 @@ Team Size: 2-3 students
 
 POC: Raquel Coelho (r.coelho@pitt.edu)
 
+## Madhavi Ganapathiraju
+### Large-Scale Graph Analysis of Brain Neural Networks (a.k.a. the Connectome)
+In this project, students will work with large-scale human brain connectivity data represented as graphs. Each dataset consists of networks where nodes correspond to brain regions and edges represent measured neural connections between them. The data comes from real, publicly available human health studies and is widely used in current research. The project centers on building, manipulating, and analyzing these graphs to uncover structural patterns, similarities, and differences across networks. Although the application domain is neuroscience, the project itself is fundamentally a graph computing problem, making it highly suitable for computer science students interested in applying algorithms to real-world data.
+
+Students will implement computational methods for analyzing brain graphs, such as computing graph statistics, identifying communities or subnetworks, comparing networks across individuals, or applying machine learning techniques to graph-structured data. The emphasis is on algorithmic thinking, data structures, and scalable computation. Students may explore challenges such as handling large graphs, designing efficient representations, or evaluating models on real data. The project offers an opportunity to apply core CS skills to a cutting-edge research domain in neuroscience.
+
+Skills and Background
+-	This is for CS students. Knowledge in neuroscience or biology is *not* a prerequisite. 
+-	Data structures and algorithms (especially graphs)
+-	Python 
+-	Familiarity with basic linear algebra and probability 
+-	Interest in applied machine learning or network analysis 
+
+- Minimum two students. If there are more students, we can add some more depth to the exploration. 
+- You may browse this figure and its caption https://www.nature.com/articles/s41583-023-00718-5/figures/1 for more information on the connectome. 
+- Weekly Meetings
+-	If there are 5 or more students signing up to work with her overall, MKG is likely to spend a day at Sennott Square to accommodate weekly meetings. Otherwise, her office is at 5607 Baum Blvd, and she expects weekly meetings in person. 
+
+Team Size: 2-5 students
+
+POC: Madhavi Ganapathiraju (madhavi@pitt.edu)
+
+### Multi-Graph Analysis for Knowledge Discovery 
+In this project, students will work with large-scale protein-protein interaction (PPI) networks represented as graphs. Consider the network of people in a university and the social network among them, as well as the annotations of people by their associations to domain specializations, hobbies, courses they attend/teach, buildings in which they are typically present, and so on. PPI networks are very similar, except that they pertain to proteins and their location, function, process, and other annotations. The information is available as multiple distinct graphs that have interconnections between them. While the application domain is molecular biology and human health, the project is fundamentally about graph representation, integration, and analysis, making it well suited for computer science students interested in working with complex, heterogeneous graph data.
+
+Students will study existing methods for computational methods and reimplement them to analyze and extract knowledge from these networks, including computing community detection and information diffusion models to draw previously unknown inter-relations. Students will potentially use Graph Neural Networks, though exact methods are to be decided based on scale of the project and availability of computing resources. 
+The emphasis is on algorithmic thinking, data structures, and scalable computation, rather than biological interpretation. 
+
+Skills and Background
+- This is for CS students. Knowledge in biology is *not* a prerequisite. 
+- Data structures and algorithms (especially graphs)
+- Python
+- Familiarity with basic linear algebra and probability
+- Interest in network analysis, data integration, or machine learning
+- If you are able to invite a biology undergrad to join, that would be terrific – connect them right away (madhavi@pitt.edu) – They can sign up for an independent study, if not capstone.
+Weekly Meetings
+- If there are 5 or more students signing up to work with her overall, MKG is likely to spend a day at Sennott Square to accommodate weekly meetings. Otherwise, her office is at 5607 Baum Blvd, and she expects weekly meetings in person. 
 
 
+Team Size: 3-5 students
+
+POC: Madhavi Ganapathiraju (madhavi@pitt.edu)
+
+### Graph Analysis for Drug (medicine) Repurposing 
+
+Developing a new medicine often takes more than 10 years, and most experimental drugs fail because they are ineffective or have unacceptable side effects. Therefore, identifying new therapeutic uses for drugs that are already approved and, on the market, (i.e., ‘repurposing’ the existing drugs), can significantly reduce both time and risk in bringing treatments to patients. 
+In this project, students will work with graph data of drugs integrated with other network data related to drugs and diseases, represented as a heterogeneous graph. Such data has already been curated by us. Although the application domain is drug discovery and human health, the project is fundamentally about graph representation, multi-graph integration, and predictive modeling, making it well suited for computer science students interested in graph algorithms and machine learning.
+
+Students will design and implement graph neural network (GNN)–based methods to study drug-disease associations, framing drug repurposing as a link prediction problem on a heterogeneous graph. The project may include constructing graph features for drugs and proteins, training and evaluating GNN models, and comparing them to simpler baseline methods. Potentially, students can incorporate gene expression–based drug signatures for additional features. The emphasis is on algorithmic thinking, representation learning, scalability, and evaluation, rather than biological interpretation. An extension of the project may focus on model interpretability, where students analyze which parts of the graph most strongly contribute to a predicted drug-disease connection, providing insight into the network mechanisms underlying repurposing predictions.
+
+Skills and Background
+-	This is for CS students. Knowledge in biology is *not* a prerequisite. 
+-	Data structures and algorithms (especially graphs)
+-	Python
+-	Familiarity with basic linear algebra and probability
+-	Interest in machine learning, graph neural networks, or data integration
+-	Minimum two students. Larger teams can explore additional graph layers, modeling approaches, or interpretability analyses.
+-	Weekly Meetings: If there are 5 or more students signing up to work with her overall, MKG is likely to spend a day at Sennott Square to accommodate weekly meetings. Otherwise, her office is at 5607 Baum Blvd, and she expects weekly meetings in person. 
+
+Team Size: 2-4 students
+
+POC: Madhavi Ganapathiraju (madhavi@pitt.edu)
+
+### Cleanup, Validation, Extension, and Open-Source Release of a Suffix-Array–Based Sequence Analysis Toolkit
+In this project, students will work with an existing high-performance sequence analysis toolkit based on suffix arrays, originally developed in our group and used extensively in research applications. The software supports large-scale analysis of genome and proteome sequences, which can be viewed as long strings over small alphabets (4-letter DNA or 20-letter protein alphabets). At its core, the toolkit implements efficient string algorithms that scale to multi-gigabyte datasets. While the application domain is biological sequence analysis, the project itself focuses on string algorithms, data structures, and performance-aware software engineering, making it well suited for computer science students.
+
+Students will focus on cleaning up, testing, documenting, and packaging the existing codebase to prepare it for open-source release. This includes improving code organization and readability, adding comprehensive tests, validating correctness and performance against existing benchmarks, and writing clear documentation for future users.  We will include implementation of at least one new application into the suite to give the students hands-on experience in developing code to process data present in an augmented suffix array data structure. 
+
+Because experimental studies may rely on results produced by this software, careful attention will be paid to correctness, reproducibility, and performance validation. The project provides hands-on experience with maintaining and releasing research-grade software used in real-world scientific workflows.
+
+Skills and Background
+-	Data structures and algorithms 
+-	C programming experience is essential 
+-	Interest in performance-aware or research software engineering
+-	2-4 students / if 2 students only join, new implementations will not be expected. 
+-	If more students are interested, we can include implementation of additional application into the software suite and their applications to real-world data. For example, we recently applied the suite to study palindromes in genomes of 15,000 viruses – palindromes are of high biomedical significance. 
+-	Weekly Meetings: If there are 5 or more students signing up to work with her overall, MKG is likely to spend a day at Sennott Square to accommodate weekly meetings. Otherwise, her office is at 5607 Baum Blvd, and she expects weekly meetings in person. 
+
+Team Size: 2-4 students
+
+POC: Madhavi Ganapathiraju (madhavi@pitt.edu)
 
 ## Daniel Mosse
 ### Multi-Objective RL Environment Creation
