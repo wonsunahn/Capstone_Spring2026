@@ -305,6 +305,39 @@ Team Size: 2-3 students
 
 POC: Adriana Kovashka (kovashka@cs.pitt.edu)
 
+## Nadine von Frankenberg
+### Treefficiency
+
+“Treefficiency” focuses on the gamification of learning about energy efficiency at home, specifically targeting appliances and energy-saving options available to home owners and renters.
+
+By integrating interactive, game-based elements, the project aims to educate homeowners and renters on effective strategies to reduce their carbon footprint, energy consumption, and costs.
+
+You will be extending the project with some fun features. Be creative! Features could be: adding/improving more gamification features, improving user experience, defining scripts to analyze user data,… The project currently comprises mobile Flutter apps but could also be extended by a web version to monitor the state of the application and database.
+
+Team Size: 2-4 students
+
+POC: Nadine von Frankenberg (vonfrankenberg@pitt.edu)
+
+## Raquel Coelho
+### Professional Portfolio Website Migration
+
+Migrate and redesign an existing professional portfolio website to a modern platform (such as GitHub Pages). Students will transfer existing content including publications, project descriptions, research team information, and links to current and past work, while improving the site's structure, navigation, and visual design. The project involves content migration, responsive web development, and implementing best practices for academic portfolio sites to create a clean, professional online presence that effectively showcases research output and facilitates academic networking.
+
+Team Size: 2-3 students
+
+POC: Raquel Coelho (r.coelho@pitt.edu)
+
+### Quantum Summer Camp Website Redesign
+
+Redesign and migrate an existing quantum summer camp website to a new hosting platform while expanding its educational resources. Students will modernize the user interface, organize quantum learning materials for accessibility, and potentially incorporate interactive elements or curated resource libraries for students at various levels. This project combines web development with science communication, requiring students to present complex quantum concepts in an engaging, user-friendly format while ensuring the site is maintainable and scalable for future camp iterations.
+
+Team Size: 2-3 students
+
+POC: Raquel Coelho (r.coelho@pitt.edu)
+
+
+
+
 ## Daniel Mosse
 ### Multi-Objective RL Environment Creation
 
