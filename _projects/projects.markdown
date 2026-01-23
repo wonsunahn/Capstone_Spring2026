@@ -211,6 +211,23 @@ Team Size: 3-5 students
 
 POC Aakash Gautam (AAKASH@pitt.edu)
 
+### Building a FindHelp-Integrated Recommendation Engine for Actionable Vision Boards
+
+**Description**:
+We are building a full-stack system that connects digital vision boards to real, local support resources. The goal is to help people move from aspirations to action by linking vision board goals like housing, work, training, childcare, or recovery support to relevant FindHelp services, then guiding users toward concrete next steps.
+
+This project centers on a resource recommendation engine and the product surfaces around it. Students will help design the underlying SQL data model for goals, resources, and user pathways, integrate FindHelp search and resource data, and build the ranking and filtering logic that makes recommendations usable. 
+
+I am looking to recruit 3 to 5 students who can start immediately and contribute across the tech stack. 
+
+**Envisioned work**: We have a vision board UI. Students will work on top of that by designing the SQL schema for goals, resources, and user pathways, integrating FindHelp data and search flows, and implementing ranking and filtering logic so recommendations are relevant and usable.
+
+**Required skills**: React, SQL, and practical full-stack development experience (APIs, auth, deployment)
+
+Team Size: 3-5 students
+
+POC: Aakash Gautam (AAKASH@pitt.edu)
+
 ## Luís Oliveira
 ### Logic App
 
