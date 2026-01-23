@@ -76,7 +76,7 @@ POC: Daniel Balderston (balderstondaniel@gmail.com), Alfredo Alonso (alonal01@lu
 ## Lymphoma Coalition
 Website: (https://lymphomacoalition.org/)[https://lymphomacoalition.org/]
 
-### Lymphoma Colition Organization RElationship System (LCORS)
+### Lymphoma Coalition Organization RElationship System (LCORS)
 
 Description:
 Over the years, the LC has grown in size to include over 90 lymphoma cancer patient organizations in over 55 countries.  With that growth, it has become difficult to manage their contact information for each organization, and to track contacts(touches), relationships and activities that the LC does on their behalf, and that partner organizations do on behalf of the LC.  
