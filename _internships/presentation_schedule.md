@@ -19,27 +19,27 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 3 (Week of 30 JAN)
   
-* Student Presentations
+* Titus Kurian
   
 ## WEEK 4 (Week of 6 FEB)
 
-* Student Presentations
+* Daniel V. Aleardi
 
 ## WEEK 5 (Week of 13 FEB)
 
-* Student Presentations
+* Pending
 
 ## WEEK 6 (Week of 20 FEB)
 
-* Student Presentations
+* Charlotte Oberti
 
 ## WEEK 7 (Week of 27 FEB)
 
-* Student Presentations
+* Maisie Oliver
 
 ## WEEK 8 (Week of 6 MAR)
 
-* Student Presentations
+* Pending
 
 ## WEEK 9 (Week of 13 MAR)
 
@@ -47,27 +47,31 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 10 (Week of 20 MAR)
 
-* Student Presentations
+* Remy Sedlak
 
 ## WEEK 11 (Week of 27 MAR)
 
-* Student Presentations
+* Yixuan Chen
+* Heegwon Yang
 
 ## WEEK 12 (Week of 3 APR)
 
-* Student Presentations
+* Christopher Achkar
+* Forest Maguire
 
 ## WEEK 13 (Week of 10 APR)
 
-* Student Presentations
+* Shashwat Srivastava
 
 ## WEEK 14 (Week of 17 APR)
 
-* Student Presentations
+* Daniel Fritsch
+* Hanchi (Owen) Zhang
 
 ## WEEK 15 (Week of 24 APR)
 
-* Student Presentations
+* Isaac Li
+* Yang Ye
   
 **[[[ Best Capstone Speaker awards ]]]**
 
