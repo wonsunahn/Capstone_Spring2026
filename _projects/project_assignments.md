@@ -112,4 +112,6 @@ permalink: /project_assignments/
     - William Danielson
     - Kee Ravindran
     - Ethan Shilling
+    - Ryan Armendariz-Lopez
+    
 
