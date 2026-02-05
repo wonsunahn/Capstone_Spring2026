@@ -27,7 +27,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 5 (Week of 13 FEB)
 
-* Pending
+* Empty
 
 ## WEEK 6 (Week of 20 FEB)
 
@@ -39,7 +39,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 8 (Week of 6 MAR)
 
-* Pending
+* Empty
 
 ## WEEK 9 (Week of 13 MAR)
 
