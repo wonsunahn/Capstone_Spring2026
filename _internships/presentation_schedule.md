@@ -31,7 +31,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 6 (Week of 20 FEB)
 
-* Charlotte Oberti
+* Empty
 
 ## WEEK 7 (Week of 27 FEB)
 
@@ -39,7 +39,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 8 (Week of 6 MAR)
 
-* Empty
+* Charlotte Oberti
 
 ## WEEK 9 (Week of 13 MAR)
 
