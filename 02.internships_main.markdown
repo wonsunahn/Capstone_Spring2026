@@ -22,7 +22,9 @@ will receive the [Best Capstone Speaker Award](#peer-review-organization).
 
 |Name|Content Score|Organization Score|Delivery Score|Overall Score|
 | ---- | ------------- | ------------------ | -------------- | ------------- |
-| Average | 1.0 | 0.0 | 0.0 | 0.0 |
+| Daniel V. Aleardi | 4.5 | 4.3125 | 4.4375 | 4.416666667 |
+| Maisie Oliver | 4.388888889 | 4.388888889 | 4.388888889 | 4.388888889 |
+| Titus Kurian | 4.15 | 4.25 | 4.15 | 4.183333333 |
 
 ## Your responsibilities
 
