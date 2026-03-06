@@ -22,7 +22,7 @@ will receive the [Best Capstone Speaker Award](#peer-review-organization).
 
 |Name|Content Score|Organization Score|Delivery Score|Overall Score|
 | ---- | ------------- | ------------------ | -------------- | ------------- |
-| Average | 0.0 | 0.0 | 0.0 | 0.0 |
+| Average | 1.0 | 0.0 | 0.0 | 0.0 |
 
 ## Your responsibilities
 
