@@ -23,6 +23,7 @@ will receive the [Best Capstone Speaker Award](#peer-review-organization).
 |Name|Content Score|Organization Score|Delivery Score|Overall Score|
 | ---- | ------------- | ------------------ | -------------- | ------------- |
 | Daniel V. Aleardi | 4.50 | 4.31 | 4.44 | 4.42 |
+| Charlotte Oberti | 4.23 | 4.36 | 4.41 | 4.33 |
 | Maisie Oliver | 4.35 | 4.30 | 4.30 | 4.32 |
 | Titus Kurian | 4.15 | 4.25 | 4.15 | 4.18 |
 
