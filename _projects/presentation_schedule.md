@@ -4,28 +4,6 @@ permalink: /projects_presentation_schedule
 title: Project Presentation Schedule
 ---
 
-## Project Presentations
-1. AI Model Development
-2. Borges Center Site Migration
-3. CGI Web App
-4. Class Scheduling App
-5. FEGAI Java SDK
-6. Garden Produce Website
-7. Graph Analysis for Drug Discovery
-8. Graph Analysis for Knowledge Discovery
-9. Graph Analysis of Brain
-10. Graph RAG
-11. Logic App
-12. Lymphoma Coalition
-13. Math Diagnostic App
-14. Multi-Objective RL
-15. Open Source Community Dev
-16. Problems for Learning Programming
-17. Professional Portfolio Website
-18. Satellite Data
-19. Street Medicine Go
-20. Treeficiency
-
 ### March 27
 - 7. Graph Analysis for Drug Discovery
 - 20. Treeficiency
