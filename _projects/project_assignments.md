@@ -16,7 +16,7 @@ permalink: /project_assignments/
     - Anthony Perti
 
 3. CGI Web App
-    - Junper Ferlan
+    - Juniper Ferlan
     - Joshua Frank
     - Yuou Xiong
     - Raymond Zong
