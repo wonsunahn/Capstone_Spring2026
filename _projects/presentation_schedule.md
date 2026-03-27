@@ -12,11 +12,11 @@ title: Project Presentation Schedule
 
 ### April 3
 - 2 Borges Center Site Migration
-- 6 Garden Produce Website
 - 4 Class Scheduling App
 - 12 Lymphoma Coalition
 
 ### April 10
+- 6 Garden Produce Website
 - 11 Logic App
 - 14 Multi-Objective RL
 - 18 Satellite Data
